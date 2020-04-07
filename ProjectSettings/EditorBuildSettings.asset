@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Fizyka/Menu.unity
+    guid: 9cf5d0e6532e0bd43ac5e40eeeb5f1fc
+  - enabled: 1
+    path: Assets/Fizyka/Fizyka.unity
+    guid: 7ed789502bf60bb49a6389229bebb503
+  m_configObjects: {}
